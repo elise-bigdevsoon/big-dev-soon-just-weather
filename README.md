@@ -2,7 +2,7 @@
 
 Application that provides users with hourly & daily weather information.
 
-![Just Weather Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-just-weather/blob/main/project-preview.png)
+![Just Weather Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-just-weather/blob/main/project-preview.png?raw=true)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
